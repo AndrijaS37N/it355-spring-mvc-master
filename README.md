@@ -1,7 +1,7 @@
 # it355-spring-mvc-master
 <h3>A second year university Spring MVC project:</h3>
 <ul style="list-style-type:circle">
-  <li>Made for the IT355 Web Services II course</li>
+  <li>Made for the <i>IT355 Web Services II</i> course</li>
   <li>Has a MySQL database</li>
   <li>All app view snapshots are collected in the <b>screen-shots</b> dir</li>
   <li>The web app is created for an imaginary telephone sales company</li>
