@@ -6,6 +6,7 @@
   <li>All app view snapshots are collected in the <b>screen-shots</b> dir</li>
   <li>The web app is created for an imaginary telephone sales company</li>
   <li>Comments, variables, services, functions and components are written in mixed serbian/english</li>
+  <li>Has a shallow, test only front-end</li>
 </ul>
 <h3>Project boot:</h3>
 <p>The development IDE is IntelliJ IDEA. In order to deploy this app to localhost,
