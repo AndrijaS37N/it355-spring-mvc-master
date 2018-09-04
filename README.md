@@ -16,4 +16,4 @@ insert a couple of rows of info.</p>
 <p>I'm not really interested in the Java Spring Framework, but it helped me understand REST services,
 HTTP requests, web components development, database and security configurations. Woo woo!</p>
 <p>This is the landing page. Check out more snapshots in the mentioned folder above.</p>
-<img source="screen-shots/landing-page.png" alt="Landing Page"/>
+<img src="screen-shots/landing-page.png" alt="Landing Page">
