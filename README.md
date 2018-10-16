@@ -7,6 +7,7 @@
   <li>The web app is created for an imaginary telephone sales company.</li>
   <li>Comments, variables, services, functions and components are written in mixed serbian/english.</li>
   <li>Has a shallow, test only front-end.</li>
+  <li>A later date log #1: There is a security vulnerability regarding <b>com.fasterxml.jackson.core:jackson-databind</b>. It should be upgraded to version <b>2.9.5</b> or later</li>
 </ul>
 <h3>Project boot. 🏴</h3>
 <p>The development IDE is IntelliJ IDEA. In order to deploy this app to localhost,
