@@ -1,5 +1,5 @@
 # it355-spring-mvc-master 🚦
-<h3>A second year university Spring MVC project. 🚥</h3>
+<h3>A simple, second year university Spring MVC project. 🚥</h3>
 <ul>
   <li>Made for the <b>IT355 Web Services II</b> course. 🍏</li>
   <li>Has a MySQL database.</li>
@@ -16,7 +16,7 @@ chosen browser. I've also added a sql file that you can use in your database man
 insert a couple of rows of info.</p>
 <h3>A short personal note. 🏴</h3>
 <p>I'm not really interested in the Java Spring Framework, but it helped me better understand REST services,
-HTTP requests, web components development, database and security configurations. Woo woo!</p>
+HTTP requests, web components development, Spring database and security configurations.</p>
 
 #### Project snapshots:
 <p>This is the landing page with a few more example views. Check out more snapshots in the mentioned folder above.</p>
