@@ -9,12 +9,12 @@
   <li>Has a shallow, test only front-end.</li>
   <li>A later date log #1: <b>There are several security vulnerabilities regarding Spring dependencies. This is not amended however, as this project is not maintained.</b></li>
 </ul>
-<h3>Project boot. 🏴</h3>
+<h3>Project boot. 🚩</h3>
 <p>The development IDE is IntelliJ IDEA. In order to deploy this app to localhost,
 you'll need to start a Tomcat (TomEE) Server which will push the app to your
 chosen browser. I've also added a sql file that you can use in your database manager to create and 
 insert a couple of rows of info.</p>
-<h3>A short personal note. 🏴</h3>
+<h3>A short personal note. 🚩</h3>
 <p>I'm not really interested in the Java Spring Framework, but it helped me better understand REST services,
 HTTP requests, web components development, Spring database and security configurations.</p>
 
