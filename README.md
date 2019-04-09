@@ -6,7 +6,7 @@
   <li>All app view snapshots are collected in the <b>snapshots</b> dir.</li>
   <li>The web app is created for an imaginary telephone sales company.</li>
   <li>Comments, variables, services, functions and components are written in mixed serbian/english.</li>
-  <li>Has a shallow, test only front-end.</li>
+  <li>Has a shallow, test only front end.</li>
   <li>A later date log: <b>There are several security vulnerabilities regarding Spring dependencies. This is not amended however, as this project is not maintained.</b></li>
 </ul>
 <h3>🚩 Project boot.</h3>
