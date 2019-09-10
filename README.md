@@ -13,7 +13,7 @@
 <p>The development IDE is IntelliJ IDEA. In order to deploy this app to localhost,
 you'll need to start a Tomcat (TomEE) Server which will push the app to your
 chosen browser. I've also added a sql file that you can use in your database manager to create and 
-insert a couple of rows of info.<b>Spring framework is huge from what I've gathered.</b></p>
+insert a couple of rows of info. <b>Spring framework is huge from what I've gathered.</b></p>
 <h3>A short personal note.</h3>
 
 #### Project snapshots:
